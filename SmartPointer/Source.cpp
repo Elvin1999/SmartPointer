@@ -122,4 +122,7 @@ using namespace std;
 void main() {
 	//unique_ptr<int>a(new int(100));
 	//unique_ptr<int>b(a);
+	//unique_ptr<int>b(a);
+	//unique_ptr<int>b(a);
+	//unique_ptr<int>b(a);
 }
